@@ -1,0 +1,10 @@
+{
+	"name": "dipwsdatalake",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://dipwsaccount.dfs.core.windows.net/"
+		}
+	}
+}
