@@ -1,0 +1,9 @@
+{
+	"name": "dipwsdatafactory",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3121585c-13b3-47c1-8080-a2bccf0ff534",
+		"tenantId": "6ad73702-409c-4046-ae59-cc4bea334507"
+	}
+}
